@@ -1,0 +1,9 @@
+google.generativeai
+flask
+python-dotenv
+langchain
+langchain_pinecone
+langchain_google_genai
+langchain_community
+sentence-transformers
+gunicorn
